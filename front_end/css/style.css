@@ -1,0 +1,29 @@
+.btn-violet{
+    background-color: rgba(138, 43, 226) /* blueviolet with 50% opacity */;
+    color: white;
+    text-align: center;
+    height: 35px;
+    margin-top: auto;
+    margin-left: 15px;
+    padding-bottom:31px;
+}
+
+.btn-violet:hover{
+    background-color: rgba(138, 43, 226, 0.7); /* blueviolet with 50% opacity */
+    color: white;
+}
+
+.nav-link.disabled{
+    font-size: 15px;
+    color: #333;
+    font-weight: 600 ;
+}
+
+#category-select{
+    max-width: fit-content;
+    min-width: fit-content;
+}
+
+#search-input{
+    max-width: fit-content;
+}
